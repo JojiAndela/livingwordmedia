@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LivingWordMedia</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Saint Community</string>
+    <string name="nav_header_subtitle">Living Word Media</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="videos">Videos</string>
+    <string name="updates">Updates</string>
+    <string name="events">Events</string>
+    <string name="online_radio">Online Radio</string>
+    <string name="live_streaming">Live Streaming</string>
+    <string name="social">Social</string>
+    <string name="facebook">Facebook</string>
+    <string name="about_us">About Us</string>
+    <string name="home">Home</string>
+    <string name="title_activity_facebook">Facebook</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hour_detail">
+        <b>Sundays</b> – 7.30am and 10.30am\n\n
+        <b>Wednesdays</b> – 6.00pm\n\n
+        <b>Location</b> – Saints Community Church Lagos – 6 Oweh Street, By WAEC Office, Jibowu, Yaba – Lagos
+    </string>
+    <string name="about_text">The Saints Community Church is a Church Ministry. Our Vision is to train believers in the
+        work of the ministry in an atmosphere of love, fellowship, faith and power. We equip believers with the Word to
+        the intent that the same is grounded and able to teach others the same also.
+    </string>
+</resources>

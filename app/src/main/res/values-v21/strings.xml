@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="videos">Videos</string>
+    <string name="updates">Updates</string>
+    <string name="events">Events</string>
+    <string name="online_radio">Online Radio</string>
+    <string name="live_streaming">Live Streaming</string>
+    <string name="social">Social</string>
+    <string name="facebook">Facebook</string>
+    <string name="about_us">About Us</string>
+    <string name="home">Home</string>
+    <string name="about_text">The Saints Community Church is a Church Ministry. Our Vision is to train believers in the
+        work of the ministry in an atmosphere of love, fellowship, faith and power. We equip believers with the Word to
+        the intent that the same is grounded and able to teach others the same also.
+    </string>
+</resources>

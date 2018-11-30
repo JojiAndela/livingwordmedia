@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_home"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="@string/home"/>
+        <item
+                android:id="@+id/nav_videos"
+                android:icon="@drawable/ic_video_library_black_24dp"
+                android:title="@string/videos"/>
+        <item
+                android:id="@+id/nav_updates"
+                android:icon="@drawable/ic_update_black_24dp"
+                android:title="@string/updates"/>
+        <item
+                android:id="@+id/nav_events"
+                android:icon="@drawable/ic_event_black_24dp"
+                android:title="@string/events"/>
+        <item
+                android:id="@+id/nav_radio"
+                android:icon="@drawable/ic_radio_black_24dp"
+                android:title="@string/online_radio"/>
+        <item
+                android:id="@+id/nav_stream"
+                android:icon="@drawable/ic_live_tv_black_24dp"
+                android:title="@string/live_streaming"/>
+    </group>
+
+    <item android:title="@string/social">
+        <menu>
+            <item
+                    android:id="@+id/nav_about"
+                    android:icon="@drawable/ic_info_black_24dp"
+                    android:title="@string/about_us"/>
+            <item
+                    android:id="@+id/nav_facebook"
+                    android:icon="@drawable/ic_facebook_app_symbol"
+                    android:title="@string/facebook"/>
+        </menu>
+    </item>
+
+</menu>
